@@ -1,0 +1,10 @@
+dto/LogOutputMsg.class
+utils/Log4jCustom.class
+utils/FileReader.class
+executor/FileExecutorService.class
+dto/LogNode$1.class
+dto/LogNode.class
+LogFileApplication.class
+services/LogFileExceptionWriter.class
+executor/FileExecutorService$1.class
+services/LogFileExceptionsReader.class
